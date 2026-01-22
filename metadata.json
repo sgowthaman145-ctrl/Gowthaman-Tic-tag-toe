@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Tic-Tac-Toe",
+  "description": "A high-end, responsive Tic-Tac-Toe application featuring professional UI/UX design, AI commentary powered by Gemini, and smooth animations.",
+  "requestFramePermissions": []
+}
